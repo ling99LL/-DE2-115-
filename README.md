@@ -39,7 +39,3 @@
 - **开发工具**：Quartus II 13.0
 - **编程语言**：Verilog HDL
 - **下载方式**：USB-Blaster + JTAG
-
----
-
-## 📂 项目结构
